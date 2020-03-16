@@ -9,12 +9,12 @@ class Dog
     @@all << self 
   end 
   
-  def self.all
-    @@all 
-  end 
+  # def self.all
+  #   @@all 
+  # end 
   
-  def name
+  # def name
      
-  end 
+  # end 
   
 end
