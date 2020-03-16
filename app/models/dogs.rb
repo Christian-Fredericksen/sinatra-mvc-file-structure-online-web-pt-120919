@@ -13,8 +13,4 @@ class Dog
     @@all 
   end 
   
-  # def name
-     
-  # end 
-  
 end
